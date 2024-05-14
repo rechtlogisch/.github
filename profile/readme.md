@@ -11,4 +11,6 @@ Our expertise concerns official APIs of the German (tax) administration:
 - [Destatis Intrastat-Schnittstelle](https://rechtlogisch.de/intrastat-schnittstelle/)  
 and other like BZSt ELMA5/DIP.
 
-We develop open-source (tax) components and share them here. So you don't have to.
+We developed state-of-the-art solutions which make the communication with the official APIs a breeze and which you can integrate in your products.
+
+Besides that we develop open-source (tax) components and share them here. So you don't have to.
