@@ -2,14 +2,14 @@
 
 ## About Recht logisch
 
-[Recht logisch](https://rechtlogisch.de) develops tax tools in Germany.
+[RL Recht logisch GmbH & Co. KG](https://rechtlogisch.de) develops tax tools in Germany.
 
 Our expertise concerns official APIs of the German (tax) administration:
 
 - [ELSTER ERiC-Schnittstelle](https://rechtlogisch.de/elster-schnittstelle/)
 - [BZSt/VIES USt-ID-Schnittstelle](https://rechtlogisch.de/ust-id-schnittstelle/)
 - [Destatis Intrastat-Schnittstelle](https://rechtlogisch.de/intrastat-schnittstelle/)  
-and other like BZSt ELMA5/DIP.
+and other like BZSt DIP/ELMA5.
 
 We developed state-of-the-art solutions which make the communication with the official APIs a breeze and which you can integrate in your products.
 
